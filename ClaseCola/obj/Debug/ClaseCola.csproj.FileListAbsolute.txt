@@ -1,0 +1,10 @@
+C:\Users\Gerar\source\repos\ClaseCola\ClaseCola\bin\Debug\ClaseCola.exe.config
+C:\Users\Gerar\source\repos\ClaseCola\ClaseCola\bin\Debug\ClaseCola.exe
+C:\Users\Gerar\source\repos\ClaseCola\ClaseCola\bin\Debug\ClaseCola.pdb
+C:\Users\Gerar\source\repos\ClaseCola\ClaseCola\obj\Debug\ClaseCola.csprojAssemblyReference.cache
+C:\Users\Gerar\source\repos\ClaseCola\ClaseCola\obj\Debug\ClaseCola.Form1.resources
+C:\Users\Gerar\source\repos\ClaseCola\ClaseCola\obj\Debug\ClaseCola.Properties.Resources.resources
+C:\Users\Gerar\source\repos\ClaseCola\ClaseCola\obj\Debug\ClaseCola.csproj.GenerateResource.cache
+C:\Users\Gerar\source\repos\ClaseCola\ClaseCola\obj\Debug\ClaseCola.csproj.CoreCompileInputs.cache
+C:\Users\Gerar\source\repos\ClaseCola\ClaseCola\obj\Debug\ClaseCola.exe
+C:\Users\Gerar\source\repos\ClaseCola\ClaseCola\obj\Debug\ClaseCola.pdb

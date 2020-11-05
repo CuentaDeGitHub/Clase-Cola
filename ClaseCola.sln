@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ClaseCola", "ClaseCola\ClaseCola.csproj", "{3CFE3A7F-827E-40A9-823A-FF476EED1ABD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3CFE3A7F-827E-40A9-823A-FF476EED1ABD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3CFE3A7F-827E-40A9-823A-FF476EED1ABD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3CFE3A7F-827E-40A9-823A-FF476EED1ABD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3CFE3A7F-827E-40A9-823A-FF476EED1ABD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {80AE37F6-F3FB-44CD-92D4-EBAD643885A4}
+	EndGlobalSection
+EndGlobal
